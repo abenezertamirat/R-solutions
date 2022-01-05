@@ -1,0 +1,8 @@
+Question: 
+A study involving stress is done on a college campus among the students. The stress scores follow a (continuous) Uniform distribution with the lowest stress score equal to 1 and the highest equal to 5. Using a sample of 75 students, find:
+
+
+1. The probability that the average stress score for the 75 students is less than 2.
+2. The 90th percentile for the average stress score for the 75 students.
+3. The probability that the total of the 75 stress scores is less than 200.
+4. The 90th percentile for the total stress score for the 75 students.
