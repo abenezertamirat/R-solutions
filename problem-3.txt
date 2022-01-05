@@ -1,0 +1,6 @@
+Question:
+
+Suppose that a market research analyst for a cellular phone company conducts a study of their customers who exceed the time allowance included on their basic cellular phone contract. The analyst finds that for those customers who exceed the time included in their basic contract, the excess time used follows an exponential distribution with a mean of 22 minutes. Consider a random sample of 80 customers and find :
+
+1. The probability that the average excess time used by the 80 customers in the sample is longer than 20 minutes.
+2. The 95th percentile for the average excess time for samples of 80 customers who exceed their basic contract time allowances
