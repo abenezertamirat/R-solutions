@@ -1,0 +1,6 @@
+Question:
+
+Consider again the same stress study that was described in Example 1 and
+answer the same questions. However, this time assume that the stress score may
+obtain only the values 1, 2, 3, 4 or 5, with the same likelihood for obtaining
+each of the values.
