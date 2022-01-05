@@ -1,0 +1,23 @@
+Question: 
+
+A measurement follows the Uniform(0, b), for an unknown value of b. Two statisticians propose two distinct ways to estimate the unknown quantity b with the aid of a sample of size n = 100.
+
+Statistician A proposes to use twice the sample average (2  ̄X) as an estimate. Statistician B proposes to use the largest observation instead. 
+
+The motivation for the proposal made by Statistician A is that the expectation of the measurement is equal to E(X) = b/2. A reasonable way to estimate the expectation is to use the sample average  ̄X. Thereby, a reasonable way to estimate b, twice the expectation, is to use 2  ̄X. 
+A motivation for the proposal made by Statistician B is that although the largest observation is indeed smaller that b, still it may not be much smaller than that value. 
+
+In order to choose between the two options they agreed to prefer the statistic that tends to have values that are closer to b. (with respect to the sampling distribution). They also agreed to compute the expectation and variance of each statistic. The performance of a statistic is evaluated using the mean square error (MSE), which is defined as the sum of the variance and the squared difference between the expectation and b. Namely, if T is the statistic (either the one proposed by Statistician A or Statistician B).
+			MSE = Var(T ) + (E(T ) − b)2 .
+
+A smaller mean square error corresponds to a better, more accurate, statistic.
+
+1. Assume that the actual value of b is 10 (b = 10). Use simulations to compute the expectation, the variance and the MSE of the statistic proposed by Statistician A.
+
+2. Assume that the actual value of b is 10 (b = 10). Use simulations to compute the expectation, the variance and the MSE of the statistic proposed by Statistician B. (Hint: the maximal value of a sequence can be computed with the function “max”.)
+
+3. Assume that the actual value of b is 13.7 (b = 13.7). Use simulations to compute the expectation, the variance and the MSE of the statistic proposed by Statistician A.
+
+4. Assume that the actual value of b is 13.7 (b = 13.7). Use simulations to compute the expectation, the variance and the MSE of the statistic proposed by Statistician B. (Hint: the maximal value of a sequence can be computed with the function “max”.) 
+
+5. Based on the results in Questions 5.1–4, which of the two statistics seems to be preferable?
