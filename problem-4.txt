@@ -1,0 +1,9 @@
+Question:
+
+A beverage company produces cans that are supposed to contain 16 ounces of beverage. Under normal production conditions the expected amount of beverage in each can is 16.0 ounces, with a standard deviation of 0.10 ounces. As a quality control measure, each hour the QA department samples 50 cans from the production during the previous hour and measures the content in each of the cans. If the average content of the 50 cans is below a control threshold then production is stopped and the can filling machine is re-calibrated.
+
+1. Compute the probability that the amount of beverage in a random can is below 15.95.
+2. Compute the probability that the amount of beverage in a sample average of 50 cans is below 15.95.
+3. Find a threshold with the property that the probability of stopping the machine in a given hour is 5% when, in fact, the production conditions are normal.
+4. Consider the data in the file “QC.csv”. It contains measurement results of 8 hours. Assume that we apply the threshold that was obtained above. At the end of which of the hours the filling machine needed re-calibration?
+5. Based on the data in the file “QC.csv”, which of the hours contains measurements which are suspected outliers in comparison to the other measurements conducted during that hour?
